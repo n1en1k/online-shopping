@@ -1,0 +1,5 @@
+Add price for products
+Add .sql
+Add session_start();
+Add shopping cart
+Add users
